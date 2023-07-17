@@ -1,0 +1,80 @@
+
+
+.walletCard {
+	text-align: center; /* Center the content horizontally */
+	width: 60%; /* Increased width for a more spacious look */
+	margin: 2em auto; /* Increased margin for centering */
+	border-radius: 20px; /* Increased border radius for a smoother look */
+	background-color: #3498db; /* Blue background color */
+	box-shadow: 0.2em 0.2em 0 0.2em rgba(0, 0, 0, 0.3); /* Darker shadow */
+	padding: 1em; /* Added padding for spacing */
+}
+
+.walletCard h3 {
+	margin-bottom: 0.5em; /* Decreased bottom margin */
+	color: #fff; /* White text color */
+	font-size: 1.5em; /* Increased font size */
+}
+
+.interactionsCard {
+	display: flex;
+	flex-direction: column;
+	width: 60%;
+	margin: 2em auto; /* Increased margin for centering */
+	padding: 1em; /* Added padding for spacing */
+	border-radius: 20px; /* Increased border radius for a smoother look */
+	background-color: #27ae60; /* Green background color */
+	box-shadow: 0.2em 0.2em 0 0.2em rgba(0, 0, 0, 0.3); /* Darker shadow */
+}
+
+.addressInput {
+    border: none;
+	width: 60%;
+	padding: 0.7em 1.4em;
+	margin: 0.3em;
+	border-radius: 10px; /* Smaller border radius */
+	box-sizing: border-box;
+	text-decoration: none;
+	font-family: 'Helvetica', sans-serif; /* Changed font family */
+	font-weight: 200; /* Increased font weight for a bolder look */
+	color: black; /* White text color */
+	
+	box-shadow: 0 0.2em 0.2em rgba(0, 0, 0, 0.3); /* Slightly lighter shadow */
+	transition: background-color 0.3s ease; /* Make the input round by setting border-radius to 50% */
+}
+
+.button6 {
+	border: none;
+	padding: 0.7em 1.4em;
+	margin: 0.3em;
+	border-radius: 10px; /* Smaller border radius */
+	box-sizing: border-box;
+	text-decoration: none;
+	font-family: 'Helvetica', sans-serif; /* Changed font family */
+	text-transform: uppercase;
+	font-weight: 600; /* Increased font weight for a bolder look */
+	color: #ffffff; /* White text color */
+	background-color: #e74c3c; /* Red background color */
+	box-shadow: 0 0.2em 0.2em rgba(0, 0, 0, 0.3); /* Slightly lighter shadow */
+	transition: background-color 0.3s ease; /* Added transition for smoother hover effect */
+}
+/* Customize the button */
+.custom-button {
+	background-color: #4CAF50; /* Green background color */
+	color: white; /* White text color */
+	padding: 10px 20px; /* Add some padding to the button */
+	font-size: 16px; /* Set the font size */
+	border: none; /* Remove the default button border */
+	cursor: pointer; /* Change the cursor on hover */
+	border-radius: 5px; /* Add rounded corners */
+  }
+  
+  /* Add a hover effect */
+  .custom-button:hover {
+	background-color: #45a049; /* Darker green background on hover */
+  }
+  
+
+.button6:hover {
+	background-color: #c0392b; /* Darker red color on hover */
+}

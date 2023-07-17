@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "D:\\Module2_Chapter4-main\\Module2_Chapter4-main\\src\\Contracts\\BankApp.sol": {
+      "lastModificationDate": 1689617430796,
+      "contentHash": "df19b5cdb67ddf9885afedc75e0daa83",
+      "sourceName": "src/Contracts/BankApp.sol",
+      "solcConfig": {
+        "version": "0.8.18",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.7.0 <0.9.0"
+      ],
+      "artifacts": [
+        "BankApp"
+      ]
+    }
+  }
+}
