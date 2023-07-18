@@ -85,7 +85,7 @@ npm start
 
 ## Authors
 Nikhil Agarwal
-USer Name-Nikhil Agarwal
+User Name-Nikhil1810
 
 ## License
 This Contract is using the MIT License
